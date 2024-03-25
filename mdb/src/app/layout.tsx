@@ -3,6 +3,8 @@ import './css/estilo.css';
 import Corinthians from "./corinthians/page";
 import Cabecalho from "./header/header";
 import Rodape from "./footer/footer";
+import './css/estilo.css';
+
 export const metadata: Metadata = {
   title: "Mundo da Bola",
   description: " ",
