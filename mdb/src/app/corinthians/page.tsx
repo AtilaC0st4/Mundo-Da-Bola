@@ -31,7 +31,7 @@ const Corinthians = () => {
                     Além dessas conquistas, o Corinthians também possui uma vasta coleção de títulos em outras competições,
                     tanto nacionais quanto internacionais, consolidando sua posição como um dos clubes mais respeitados e temidos do futebol brasileiro e mundial.</p>
                     </div>
-                    <Image src="/imagens/img_titulos_corinthians.png" width={500} height={500} ></Image>
+                    <Image src="/imagens/img_titulos_corinthians.png" alt="taças dos mundiais do corinthians" width={500} height={500} ></Image>
 
             </section>
 
