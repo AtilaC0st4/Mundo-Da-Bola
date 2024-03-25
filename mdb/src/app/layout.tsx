@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import './c/estilo.css';
+import './css/estilo.css';
+import Corinthians from "./corinthians/page";
 export const metadata: Metadata = {
   title: "Mundo da Bola",
   description: " ",
@@ -13,7 +14,7 @@ export default function RootLayout({
     <html lang="pt-br">
       
       <body>
-       
+        <Corinthians></Corinthians>
         {children}
        
         </body>
