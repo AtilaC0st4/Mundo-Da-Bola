@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import './css/estilo.css';
+import './c/estilo.css';
 export const metadata: Metadata = {
-  title: "SalesForce",
-  description: "",
+  title: "Mundo da Bola",
+  description: " ",
 };
 export default function RootLayout({
   children,
@@ -10,7 +10,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR">
+    <html lang="pt-br">
       
       <body>
        
