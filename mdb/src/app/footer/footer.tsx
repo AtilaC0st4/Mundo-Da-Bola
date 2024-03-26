@@ -12,7 +12,7 @@ const Rodape = () => {
 
                         <Image src="/imagens/img_logo.png" alt="Logo" width={150} height={100}></Image>
 
-                        <span>Copyright © 2024 InovaTech | Powered by InovaTech.</span>
+                        <span>Powered by Átila Costa - RM552650 | Gabriel Plasa - RM</span>
 
                         <nav className="links_rodape">
                             

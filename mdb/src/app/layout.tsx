@@ -3,6 +3,7 @@ import './css/estilo.css';
 import Cabecalho from "./header/header";
 import Rodape from "./footer/footer";
 import './css/estilo.css';
+import Corinthians from "./corinthians/page";
 
 export const metadata: Metadata = {
   title: "Mundo da Bola",
@@ -18,6 +19,7 @@ export default function RootLayout({
       
       <body>
         <Cabecalho></Cabecalho>
+        <Corinthians></Corinthians>
         {children}
         <Rodape></Rodape>
         </body>
