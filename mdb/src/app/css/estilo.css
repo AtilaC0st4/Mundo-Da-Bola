@@ -42,5 +42,79 @@
 .menu_rotas a:hover, a:focus{
     text-decoration: underline;
 }
+/* ======================== banner-Home ===================== */
+
+.banner_home{
+    width: 100%;
+    height: 600px;
+    color: #E9E9E9;
+    background-image: url(/imagens/banner_home.png);
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.banner_home h1{
+    height: 50%;
+    padding: 75px 0;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.banner_home p{
+    height: 50%;
+    padding: 5px 0;
+    font-size: x-large;
+    text-align: center;
+}
 
 /* ======================== Rodape ===================== */
+
+.rodape{
+    width: 100%;
+    height: 200px;
+    background-color: #1F1E26;
+    display: flex;
+    align-items: center;
+}
+
+.menu_rodape{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+
+.menu_rodape span{
+    color: #C3C3C3;
+    font-weight: bold;
+    padding: 30px 100px;
+    border-left: 1px solid #fff;
+}
+
+.links_rodape h3{
+    font-size: xx-large;
+    font-weight: bold;
+    color: #E9E9E9;
+    padding-bottom: 10px;
+}
+
+.container_links_rodape{
+    width: auto;
+    height: auto;
+    display: flex;
+    gap: 30px;
+}
+
+.container_links_rodape a{
+    color: #E9E9E9;
+    font-size: large;
+    line-height: 1.5;
+}
+
+.container_links_rodape a:hover{ 
+    text-decoration: underline;
+
+}
