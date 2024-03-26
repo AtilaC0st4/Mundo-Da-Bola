@@ -57,7 +57,7 @@
 
 .banner_home h1{
     height: 50%;
-    padding: 75px 0;
+    padding-bottom: 75px ;
     font-size: 40px;
     font-weight: bold;
     text-align: center;
@@ -68,6 +68,51 @@
     padding: 5px 0;
     font-size: x-large;
     text-align: center;
+}
+/* ======================== Cards-Home ===================== */
+
+.clubes{
+    width: 100%;
+    height: auto;
+    background-color: #1F1E26;
+    color: #E9E9E9;
+    display: flex;
+    justify-content: center;
+}
+
+.clubes h2{
+    padding: 100px 0;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center ;
+}
+
+.area_cards{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.cards{ 
+    text-align: center;
+}
+
+.cards h3{
+    font-size: xx-large;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.conteudo_card{
+    width: 350px;
+    height: 500px;
+    background-color: #2B2937;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: -16px 21px 15px -10px rgba(0,0,0,0.1);
 }
 
 /* ======================== Rodape ===================== */
