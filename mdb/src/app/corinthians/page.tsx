@@ -7,7 +7,7 @@ const Corinthians = () => {
 
             <section className="banner">
 
-                <Image src="/imagens/logo_corinthians.png" alt="Logo do Corinthians" width={500} height={500}></Image>
+                <Image src="/imagens/corinthians/logo_corinthians.png" alt="Logo do Corinthians" width={500} height={500}></Image>
 
                 <div className="txt-banner">
 
@@ -41,7 +41,7 @@ const Corinthians = () => {
                         tanto nacionais quanto internacionais, consolidando sua posição como um dos clubes mais respeitados e temidos do futebol brasileiro e mundial.</p>
                 </div>
 
-                <Image src="/imagens/img_titulos_corinthians.png" alt="taças dos mundiais do corinthians" width={500} height={500} ></Image>
+                <Image src="/imagens/corinthians/img_titulos_corinthians.png" alt="taças dos mundiais do corinthians" width={500} height={500} ></Image>
 
             </section>
 
@@ -49,7 +49,7 @@ const Corinthians = () => {
 
                 <h2>Neo Quimica Arena</h2>
 
-                <Image src="/imagens/estadio_corinthians.png" alt="Neo Quimica arena estádio do corinthians" width={1000} height={500}></Image>
+                <Image src="/imagens/corinthians/estadio_corinthians.png" alt="Neo Quimica arena estádio do corinthians" width={1000} height={500}></Image>
 
                 <p>A Neo Química Arena, conhecida como "Casa do Corinthians", é um estádio em Itaquera, São Paulo, inaugurado em 2014.
                     Além de sediar jogos do Corinthians, o estádio recebe diversos eventos esportivos e culturais.
@@ -66,7 +66,7 @@ const Corinthians = () => {
 
                 <div className="idolo1">
 
-                    <Image src="/imagens/idolo_cassio.png"
+                    <Image src="/imagens/corinthians/idolo_cassio.png"
                         alt="cassio isolo do corinthians beijando a taça do mundial de 2012"
                         width={500} height={500}></Image>
 
@@ -86,7 +86,7 @@ const Corinthians = () => {
                         Ambos deixaram um legado duradouro e inspirador para os torcedores do Corinthians,
                         cada um contribuindo de maneira única para a história e identidade do clube.</p>
 
-                    <Image src="/imagens/idolo_socrates.png"
+                    <Image src="/imagens/corinthians/idolo_socrates.png"
                         alt="Socratres idolo do corinthians com o punho serrado para cima"
                         width={500} height={500}></Image>
                 </div>
@@ -111,7 +111,7 @@ const Corinthians = () => {
                     Apesar dos desafios, os Gaviões da Fiel continuam sendo uma parte essencial do cenário do futebol brasileiro,
                     representando não apenas o apoio apaixonado ao Corinthians, mas também uma expressão cultural e social para muitos de seus membros.</p>
 
-                <Image src="/imagens/torcida_corinthians.png"
+                <Image src="/imagens/corinthians/torcida_corinthians.png"
                     alt="torcida do corinthians estendendo o bandeirão da gaviões da fiel"
                     width={1000} height={400}></Image>
 
