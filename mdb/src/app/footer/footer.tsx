@@ -10,7 +10,7 @@ const Rodape = () => {
 
                     <section className="menu_rodape">
 
-                        <Image src="/imagens/img_logo.png" alt="Logo" width={150} height={100}></Image>
+                        <Link href="/"><Image src="/imagens/img_logo.png" alt="Logo" width={150} height={100}></Image></Link>
 
                         <span>Powered by Átila Costa - RM552650 | Gabriel Plasa - RM</span>
 
@@ -22,22 +22,22 @@ const Rodape = () => {
 
                                 <ul>
                                     <li>
-                                        <Link href="">Página Inicial</Link>
+                                        <Link href="/">Página Inicial</Link>
                                     </li>
                                     <li>
-                                        <Link href="">Corinthians</Link>
+                                        <Link href="/corinthians">Corinthians</Link>
                                     </li>
                                     <li>
-                                        <Link href="">Santos</Link>
+                                        <Link href="/santos">Santos</Link>
                                     </li>
                                 </ul>
 
                                 <ul>
                                     <li>
-                                        <Link href="">São Paulo</Link>
+                                        <Link href="/saopaulo">São Paulo</Link>
                                     </li>
                                     <li>
-                                        <Link href="">Palmeiras</Link>
+                                        <Link href="/palmeiras">Palmeiras</Link>
                                     </li>
                                 </ul>
                             </div>

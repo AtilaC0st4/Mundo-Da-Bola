@@ -29,7 +29,7 @@ export default function Home() {
 
             <div className="cards">
               <h3>Santos</h3>
-              <Link href="">
+              <Link href="/santos">
                 <div className="conteudo_card">
                   <Image src="/imagens/santos_card.png" width={300} height={450} alt="Logo Santos" ></Image>
                 </div>
@@ -38,7 +38,7 @@ export default function Home() {
 
             <div className="cards">
               <h3>Corinthians</h3>
-              <Link href="">
+              <Link href="/corinthians">
                 <div className="conteudo_card">
                   <Image src="/imagens/corinthians_card.png" width={300} height={450} alt="Logo Corinthians"></Image>
                 </div>
@@ -47,7 +47,7 @@ export default function Home() {
 
             <div className="cards">
               <h3>São Paulo</h3>
-              <Link href=""><div className="conteudo_card">
+              <Link href="/saopaulo"><div className="conteudo_card">
                 <Image src="/imagens/saopaulo_card.png" width={300} height={450} alt="Logo São Paulo"></Image>
               </div>
               </Link>
@@ -55,7 +55,7 @@ export default function Home() {
 
             <div className="cards">
               <h3>Palmeiras</h3>
-              <Link href=""><div className="conteudo_card">
+              <Link href="/palmeiras"><div className="conteudo_card">
                 <Image src="/imagens/palmeiras_card.png" width={300} height={450} alt="Logo Palmeiras"></Image>
               </div>
               </Link>

@@ -19,7 +19,6 @@ export default function RootLayout({
       
       <body>
         <Cabecalho></Cabecalho>
-        <Corinthians></Corinthians>
         {children}
         <Rodape></Rodape>
         </body>

@@ -94,8 +94,8 @@ const Corinthians = () => {
                     <div className="idolo1">
 
                         <Image src="/imagens/corinthians/idolo_cassio.png"
-                            alt="cassio isolo do corinthians beijando a taça do mundial de 2012"
-                            width={500} height={500}></Image>
+                            alt="cassio idolo do corinthians beijando a taça do mundial de 2012"
+                            width={300} height={300}></Image>
 
                         <p>Cássio e Sócrates são figuras icônicas no Corinthians,
                             representando diferentes períodos e contribuições para o clube.
@@ -115,7 +115,7 @@ const Corinthians = () => {
 
                         <Image src="/imagens/corinthians/idolo_socrates.png"
                             alt="Socratres idolo do corinthians com o punho serrado para cima"
-                            width={500} height={500}></Image>
+                            width={300} height={300}></Image>
                     </div>
 
                 </div>
@@ -123,6 +123,8 @@ const Corinthians = () => {
             </section>
 
             <section className="torcida">
+
+                <div className="content">
 
                 <h2>Torcida Organizada</h2>
 
@@ -143,6 +145,8 @@ const Corinthians = () => {
                 <Image src="/imagens/corinthians/torcida_corinthians.png"
                     alt="torcida do corinthians estendendo o bandeirão da gaviões da fiel"
                     width={1000} height={400}></Image>
+                    
+                </div>
 
             </section>
 

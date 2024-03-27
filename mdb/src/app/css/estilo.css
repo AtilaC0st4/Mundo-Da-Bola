@@ -197,6 +197,64 @@
 }
 /* ======================== idolos ===================== */
 
+.idolos{
+    background-color: #A1A1A1;
+    padding-bottom: 50px ;
+}
+
+.idolos h2{
+    padding: 50px 0;
+    text-align: center;
+    color: #23222D;
+    font-size: xx-large;
+}
+
+.idolo1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+
+.idolo1 p{
+    padding-left: 50px;
+    font-size: large;
+    color: #23222D;
+}
+
+.idolo2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+
+.idolo2 p{
+    padding-right: 50px;
+    font-size: large;
+    color: #23222D;
+}
+/* ======================== Torcida ===================== */
+
+.torcida{
+    background-color: #23222D;
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px ;
+}
+
+.torcida h2{
+    padding: 50px 0;
+    text-align: center;
+    color: #E9E9E9;
+    font-size: xx-large;
+}
+
+.torcida p{
+    padding-bottom: 50px;
+    color: #E9E9E9;
+    font-size: large;
+}
 
 
 /* ======================== Rodape ===================== */
